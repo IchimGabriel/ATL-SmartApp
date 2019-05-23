@@ -1,1 +1,1 @@
-ATL-SmartApp
+ATLAPP
